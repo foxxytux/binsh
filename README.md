@@ -1,2 +1,2 @@
 # binsh
-a small shell written in c
+a small shell like thing written in c
